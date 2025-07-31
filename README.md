@@ -51,7 +51,28 @@ Oops, Didn't find the number!!
 Enter the number you want to search :56
 The searched number's index is 9
 ```
+4. Finding the SUm and Average of the array elements :
+```
+Enter the number of elements (1-20) :
+7
 
+Enter element 0	7
+
+Enter element 1	14
+
+Enter element 2	21
+
+Enter element 3	28
+
+Enter element 4	35
+
+Enter element 5	42
+
+Enter element 6	49
+Array :	7	14	21	28	35	42	49	Sum : 196
+Average : 28
+
+```
 
 
 
