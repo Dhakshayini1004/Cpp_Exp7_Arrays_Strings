@@ -28,7 +28,7 @@ int main(){
         cout<<array[i]<<"\t";
         sum = sum + array[i];
     }
-    
+    cout<<endl;
     cout<<"Sum : "<<sum<<endl;
     cout<<"Average : "<<sum/num<<endl;
     
@@ -52,7 +52,8 @@ Enter element 4	35
 Enter element 5	42
 
 Enter element 6	49
-Array :	7	14	21	28	35	42	49	Sum : 196
+Array :	7	14	21	28	35	42	49	
+Sum : 196
 Average : 28
 */
 
