@@ -33,8 +33,15 @@ Enter element 8	77
 Enter element 9	44
 Array: 	44	1004	235	123	567	34	8	3	77	44	
 ```
-2. Maximum and Minimum number from a given array
-
+2. Maximum and Minimum number from a given array:
+```
+Enter 1 for Maximum number, 0 for Minimum number: 1
+Maximum: 66
+```
+```
+Enter 1 for Maximum number, 0 for Minimum number: 0
+Minimum: 0
+```
 3. Finding a number from an array of numbers :
 ```
 Enter the number you want to search :45
