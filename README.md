@@ -35,7 +35,15 @@ Array: 	44	1004	235	123	567	34	8	3	77	44
 ```
 2. Maximum and Minimum number from a given array
 
-
+3. Finding a number from an array of numbers :
+```
+Enter the number you want to search :45
+Oops, Didn't find the number!!
+```
+```
+Enter the number you want to search :56
+The searched number's index is 9
+```
 
 
 
