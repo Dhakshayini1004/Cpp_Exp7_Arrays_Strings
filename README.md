@@ -32,6 +32,8 @@ An array is a collection of elements of the same data type stored in contiguous 
 **Syntax:**
 ```cpp
 datatype arrayName[size];
+
+int arrayName[4*number];//int
 ```
 
 **Characteristics:**
@@ -193,7 +195,8 @@ Enter element 4	35
 Enter element 5	42
 
 Enter element 6	49
-Array :	7	14	21	28	35	42	49	Sum : 196
+Array :	7	14	21	28	35	42	49
+Sum : 196
 Average : 28
 
 ```
