@@ -132,7 +132,7 @@ cin >> str;   // input
 Enter the number of elements (1-20) :
 66
 Not enough space !!
-
+  
 ```
 ```
 Enter the number of elements (1-20) :
@@ -157,25 +157,30 @@ Enter element 7	3
 Enter element 8	77
 
 Enter element 9	44
-Array: 	44	1004	235	123	567	34	8	3	77	44	
+Array: 	44	1004	235	123	567	34	8	3	77	44
+
 ```
 2. Maximum and Minimum number from a given array:
 ```
 Enter 1 for Maximum number, 0 for Minimum number: 1
 Maximum: 66
+
 ```
 ```
 Enter 1 for Maximum number, 0 for Minimum number: 0
 Minimum: 0
+
 ```
 3. Finding a number from an array of numbers :
 ```
 Enter the number you want to search :45
 Oops, Didn't find the number!!
+
 ```
 ```
 Enter the number you want to search :56
 The searched number's index is 9
+
 ```
 4. Finding the SUm and Average of the array elements :
 ```
@@ -200,9 +205,39 @@ Sum : 196
 Average : 28
 
 ```
+5. Palindrome Check
+```
+Enter a word: 	level
+Palindrome
 
+```
+```
+Enter a word: Keyboard
+Not a Palindrome
 
+```
+6. Printing Strings
+```
+Dhakshayini
+hello
+hello
+Dhakshayini
 
+```
+7. String Concatenation
+```
+Enter a word :	Dhakshayini 
+Enter a word: 	Usha
+Concatenation :DhakshayiniUsha
+
+```
+8. String Reversal
+```
+Sample Output: 
+Enter a word: 	Sunday
+Reversed word :yadnuS
+
+```
 
 
 
