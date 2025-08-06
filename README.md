@@ -130,18 +130,18 @@ cin >> str;   // input
   - Traverses the string in reverse using a loop.
   - Outputs the reversed string to the console.
 
-**Palindrome Check**
+- **Palindrome Check**
   - Takes a word input from the user.
   - Compares characters from both ends using a loop (from `0` to `length/2`).
   - Checks if the word is the same forwards and backwards.
   - Displays `"Palindrome"` if the condition holds, otherwise prints `"Not a palindrome"`.
 
-**String Concatenation**
+- **String Concatenation**
   - Accepts two words from the user.
   - Uses the `+` operator to concatenate the strings.
   - Displays the combined result.
 
-**String Declaration and Output**
+- **String Declaration and Output**
   - Demonstrates various ways to declare and initialize strings:
   - `char str1[15] = "Dhakshayini";` – C-style string with fixed size.
   - `char str2[7] = {'h','e','l','l','o','\0'};` – Manual character array with null terminator.
